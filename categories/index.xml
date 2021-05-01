@@ -5,6 +5,25 @@
     <link>https://markdlp.github.io/categories/</link>
     <description>Recent content in Categories on Mark&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://markdlp.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://markdlp.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS</title>
+      <link>https://markdlp.github.io/categories/cs/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://markdlp.github.io/categories/cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>https://markdlp.github.io/categories/photography/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://markdlp.github.io/categories/photography/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

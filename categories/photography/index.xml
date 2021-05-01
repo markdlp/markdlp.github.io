@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photography on Mark&#39;s Site</title>
+    <link>https://markdlp.github.io/categories/photography/</link>
+    <description>Recent content in Photography on Mark&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://markdlp.github.io/categories/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Passion About Photography</title>
+      <link>https://markdlp.github.io/posts/photography/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://markdlp.github.io/posts/photography/</guid>
+      <description>More often than not I try to do different things. That is because I&amp;rsquo;m in the fortunate possition to study what I like. In other words it is good to keep my mind of my studies and also do a fun totaly unrelatable thing with engineering.</description>
+    </item>
+    
+  </channel>
+</rss>
